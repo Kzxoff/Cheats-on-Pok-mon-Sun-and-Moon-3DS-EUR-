@@ -1,0 +1,114 @@
+=============================================
+#	[NTR EUR] Cheats 4 3DS	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- Fast Treasure Hunt v1.2
+- Fast Berry Grow v1.2
+- No Softban v1.2
+- Same pokemon species at Battle Royal Dome
+- Infinite Island Scans v1.2
+- QR Scan is 100 Points v1.2
+- Always UB Wormhole v1.2
+- Always Rainbow Pelago Beans v1.2
+- No Outlines v1.2
+- No Softban v1.1 (restart to turn off)
+- 100%Catch(Gateshark2NTR only)
+- Unlock Mega Evolution v1.0
+- Can use mega evolution multiple times in 
+- Always critical hit v1.0
+- (SELECT + UP)All Z-Crystal v1.0
+- (SELECT + UP)All Rotom Power x950 v1.0
+- (SELECT + UP)All Clothes(male) v1.0
+- Hold SELECT to view IVs & Hold START to v
+- Can learn the all moves in Move Reminder 
+- HP Not Decrease v1.0
+- PP Not Decrease v1.0
+- Z-moves use is possible without Z-Crystal
+- Can throw Pokeball at Trial v1.0
+- Able to rename Outsider Pokemon in Name R
+- (START)Receive Egg from Daycare v1.0
+- Can use Z-moves multiple times v1.0
+- No QR Scanning Wait Time v1.0
+- (Hold START and Open OPTIONS menu)Access 
+- Camera zoom out(SELECT+L)Enable, (SELECT+
+- (Hold R)Walk through Walls v1.0
+- Instant Messages v1.0
+- No Encounter, Hold START Instant Encounte
+- No Forced Trainer Battles v1.0
+- Pokemon Can Learn Any HM/TM v1.0
+- QR Scan Point 100 v1.0
+- No Outlines v1.0
+- (SELECT + UP)All Clothes(female) v1.0
+- Catch Trainer's Pokemon(Gateshark2NTR onl
+- BP9999 v1.0
+- Max Money v1.0
+- 100%Catch v1.0
+- Catch Trainer's Pokemon v1.0
+- Rematch Trainers (Hold L & talk to Traine
+- (START+L)Wild Pokemon Shiny, (START+R)Dis
+- (SELECT + UP)All BERRIES x950 v1.0
+- Unlock All PokePuffs
+- 100%Catch v1.0
+- Catch Trainer's Pokemon v1.0
+- Egg Instant Hatch v1.0
+- (SELECT + UP)All ITEMS x950 v1.0
+- (SELECT + UP)All TMs & HMs v1.0
+- (SELECT + UP)All MEDICINE x950 v1.0
+- Mega evolution does not cancel after batt
+- Mega evolution of party pokemon does not 
+- (SELECT + UP)All ITEMS x950 v1.1
+- (SELECT + UP)All TMs & HMs v1.1
+- (SELECT + UP)All MEDICINE x950 v1.1
+- (SELECT + UP)All BERRIES x950 v1.1
+- (SELECT + UP)All Z-Crystal v1.1
+- (SELECT + UP)All Rotom Power x950 v1.1
+- (SELECT + UP)All Clothes(male) v1.1
+- (SELECT + UP)All Clothes(female) v1.1
+- Unlock Mega Evolution v1.1
+- Max Money v1.1
+- BP9999 v1.1
+- QR Scan Point 100 v1.1
+- Legendaries to be played with in the Batt
+- No Outlines v1.1
+- (Hold R)Walk through Walls v1.1
+- Instant Messages v1.1
+- Pokemon Can Learn Any HM/TM v1.1
+- Rematch Trainers (Hold L & talk to Traine
+- Able to rename Outsider Pokemon in Name R
+- No QR Scanning Wait Time v1.1
+- (Hold START)Receive Egg from Daycare v1.1
+- Can learn the all moves in Move Reminder 
+- No Encounter, Hold START Instant Encounte
+- No Forced Trainer Battles v1.1
+- Can use Z-moves multiple times v1.1
+- Can throw Pokeball at Trial v1.1
+- Can use mega evolution multiple times in 
+- (START+L)Wild Pokemon Shiny, (START+R)Dis
+- Camera zoom out(SELECT+L)Enable, (SELECT+
+- (Hold START and Open OPTIONS menu)Access 
+- 100%Catch v1.1
+- Catch Trainer's Pokemon v1.1
+- Egg Instant Hatch v1.1
+- Z-moves use is possible without Z-Crystal
+- Mega evolution of party pokemon does not 
+- Mega evolution does not cancel after batt
+- PP Not Decrease v1.1
+- HP Not Decrease v1.1
+- Always critical hit v1.1

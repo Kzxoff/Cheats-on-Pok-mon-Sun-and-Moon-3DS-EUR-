@@ -1,0 +1,146 @@
+=============================================
+#	[NTR EUR] Cheats 4 3DS	    #
+=============================================
+
+=============================================
+#	  How to use this plugin	    #
+=============================================
+1- Press [Select] to shows up the menu
+--> You can navigate in the menu with the DPAD Key UP and DOWN
+--> Press A to activate / de-activate a cheat
+--> Press B to exit the menu and return to the game
+--> You can change the hotkey for showing up the menu by pressing [Start] in the menu
+--> You can adjust the speed of the cheats execution by pressing [Select] in the menu
+Tip:
+-- You can easily navigate in a spoiler with those keys:
+   --> DPAD Key Left: Go back to the upper line of the spoiler
+   --> DPAD Key Right: Go to the last line of the spoiler
+
+=============================================
+#	Cheats available in this plugin	    #
+=============================================
+- No Softban v1.2 (restart to turn off)
+- Raises the all Status of a Pokemon by 6 s
+- Max Money v1.0
+- Walk & Run Speed x1.5 v1.0
+- (Hold R)Walk through Walls v1.0
+- BP9999 v1.0
+- (SELECT + UP)All TMs & HMs v1.0
+- (SELECT + UP)All MEDICINE x950 v1.0
+- (SELECT + UP)All BERRIES x950 v1.0
+- (SELECT + UP)All ITEMS x950 v1.0
+- 100%Catch v1.0
+- Catch Trainer's Pokemon v1.0
+- Instant Messages v1.0
+- No Forced Trainer Battles v1.0
+- Rematch Trainers (Hold L & talk to Traine
+- Egg Instant Hatch v1.0
+- No Encounter, Hold START Instant Encounte
+- (SELECT + UP)All Z-Crystal v1.0
+- EXP x10 after battle(Includes figure of a
+- (START+L)Wild Pokemon Shiny, (START+R)Dis
+- Pokemon Can Learn Any HM/TM v1.0
+- Able to rename Outsider Pokemon in Name R
+- QR Scan Point 100 v1.0
+- No QR Scanning Wait Time v1.0
+- Camera zoom out(SELECT+L)Enable, (SELECT+
+- Hold SELECT/START to view IVs/EVs on Poke
+- Receive Egg from Daycare v1.0
+- 255 Rainbow Poké Beans (L + Down) v1.0
+- (SELECT + UP)All Clothes(male) v1.0
+- (SELECT + UP)All Clothes(female) v1.0
+- Z-moves use is possible without Z-Crystal
+- Can use Z-moves many times v1.0
+- 250,000 FC
+- 500,000 Total Earned FC
+- 99 of all Poké Beans
+- L+B to Refill Turns (Cafe)
+- L+A to Empty Turns (Cafe)
+- (Hold START and Open OPTIONS menu)Access 
+- Enable View of Enemy Pokemon HP v1.0
+- Always critical hit v1.0
+- Can throw Pokeball at trial v1.0
+- Can learn the all moves in Move Reminder 
+- Mega evolution does not cancel after batt
+- Mega evolution of party pokemon does not 
+- No Outlines v1.0
+- Unlimited HP
+- Island scan ready to use (100 points)
+- Max Money v1.1
+- BP9999 v1.1
+- Walk & Run Speed x1.5 v1.1
+- (Hold R)Walk through Walls v1.1
+- (SELECT + UP)All TMs & HMs v1.1
+- (SELECT + UP)All MEDICINE x950 v1.1
+- (SELECT + UP)All BERRIES x950 v1.1
+- (SELECT + UP)All ITEMS x950 v1.1
+- (SELECT + UP)All Z-Crystal v1.1
+- 100%Catch v1.1
+- Catch Trainer's Pokemon v1.1
+- Instant Messages v1.1
+- No Forced Trainer Battles v1.1
+- Rematch Trainers (Hold L & talk to Traine
+- Egg Instant Hatch v1.1
+- No Encounter, Hold START Instant Encounte
+- Pokemon Can Learn Any HM/TM v1.1
+- Able to rename Outsider Pokemon in Name R
+- QR Scan Point 100 v1.1
+- No QR Scanning Wait Time v1.1
+- Receive Egg from Daycare v1.1
+- (SELECT + UP)All Clothes(male) v1.1
+- (SELECT + UP)All Clothes(female) v1.1
+- (START+L)Wild Pokemon Shiny, (START+R)Dis
+- EXP x10 after battle(Includes figure of a
+- Camera zoom out(SELECT+L)Enable, (SELECT+
+- Hold SELECT/START to view IVs/EVs on Poke
+- Z-moves use without Z-Crystal(Press L to 
+- Can use Z-moves many times v1.1
+- (Hold START and Open OPTIONS menu)Access 
+- Enable View of Enemy Pokemon HP v1.1
+- Raises the all Status of a Pokemon by 6 s
+- Always critical hit v1.1
+- Can use Pokeball at trial v1.1
+- Can learn the all moves in Move Reminder 
+- Mega evolution does not cancel after batt
+- Mega evolution of party pokemon does not 
+- No Outlines v1.1
+- Quick Friendship Gain (Hold Start) V1.0
+- Quick Nursery Egg (Hold L) V1.0
+- Max Money v1.2
+- BP9999 v1.2
+- Player Coordinates X0Z0 V1.0
+- (Hold R)Walk through Walls v1.2
+- (SELECT + UP)All TMs & HMs v1.2
+- (SELECT + UP)All MEDICINE x950 v1.2
+- (SELECT + UP)All BERRIES x950 v1.2
+- (SELECT + UP)All ITEMS x950 v1.2
+- (SELECT + UP)All Z-Crystal v1.2
+- No Outlines v1.2
+- Instant Messages v1.2
+- No Forced Trainer Battles v1.2
+- Rematch Trainers (Hold L & talk to Traine
+- No Encounter, Hold START Instant Encounte
+- Pokemon Can Learn Any HM/TM v1.2
+- Able to rename Outsider Pokemon in Name R
+- QR Scan Point 100 v1.2
+- No QR Scanning Wait Time v1.2
+- Receive Egg from Daycare v1.2
+- (SELECT + UP)All Clothes(male) v1.2
+- (SELECT + UP)All Clothes(female) v1.2
+- (START+L)Wild Pokemon Shiny, (START+R)Dis
+- Camera zoom out(SELECT+L)Enable, (SELECT+
+- 100%Catch v1.2
+- Catch Trainer's Pokemon(START+UP)Enable, 
+- Catch Trainer's Pokemon(GateWay Only) v1.
+- Egg Instant Hatch v1.2
+- Z-moves use is possible without Z-Crystal
+- Can use Z-moves many times v1.2
+- (Hold START and Open OPTIONS menu)Access 
+- Enable View of Enemy Pokemon HP v1.2
+- Raises the all Status of a Pokemon by 6 s
+- Always critical hit v1.2
+- Can throw Pokeball at trial v1.2
+- Can learn the all moves in Move Reminder 
+- Mega evolution does not cancel after batt
+- Mega evolution of party pokemon does not 
+- Hold SELECT/START to view IVs/EVs on Poke
